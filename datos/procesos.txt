@@ -1,0 +1,8 @@
+# Archivo de ejemplo para cargar procesos
+# Formato: ID,Llegada,Ráfaga,Prioridad
+1,0,5,1
+2,1,3,2
+3,2,8,1
+4,3,6,3
+5,4,4,2
+6,5,7,3
